@@ -3,6 +3,8 @@ Testrepo readme file
 
 This is a test repository.
 
+***
+
 Here are the tests which are performed with this test repository:
 
 * exploring how issues are linked with commits
