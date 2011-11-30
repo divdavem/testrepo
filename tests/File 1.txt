@@ -1,1 +1,2 @@
 Test file 1
+This is a change to fix issue 5.
