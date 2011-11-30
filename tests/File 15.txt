@@ -1,1 +1,2 @@
 Test file 15
+Other change, linked with issue 5.
