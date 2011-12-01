@@ -14,3 +14,5 @@ Here are the tests which are performed with this test repository:
 * using tags
 * using maven scm features
 * ...
+
+***
