@@ -1,2 +1,3 @@
 Test file 16
 Other change not related to issue 5.
+Change for issue 6.
