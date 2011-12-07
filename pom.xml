@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <artifactId>testrepo</artifactId>
   <packaging>pom</packaging>
-  <version>0.4</version>
+  <version>0.5-SNAPSHOT</version>
   <issueManagement>
   	<system>GitHub</system>
   	<url>https://github.com/divdavem/testrepo/issues</url>
